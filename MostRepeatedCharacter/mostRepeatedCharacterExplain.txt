@@ -1,0 +1,5 @@
+Given a string s, return the most frequent character(an alphabet letter) in the string s.
+
+Examples:
+input: s = "abcddefgda111113333333333" 
+output: d
