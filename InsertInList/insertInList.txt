@@ -1,0 +1,9 @@
+Receber uma lista de indices e inserir em uma outra lista, caso esteja ocupado, insira no proximo local vago
+
+exemplo
+input:
+1 2 3 4 5
+0 1 2 2 2 
+
+output:
+1 2 5 4 3
